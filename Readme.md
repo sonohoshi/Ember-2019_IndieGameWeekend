@@ -24,7 +24,7 @@ F : 상자 열기, 아이템 획득 ( Open Chest, Get Items )
 
 ---
 
-## API Used  
+## Used Library  
 1. Spine-Unity  
 2. DOTween
 
